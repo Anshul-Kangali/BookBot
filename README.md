@@ -1,4 +1,3 @@
-
 # 📚 BookBot
 
 BookBot is a command-line application that analyzes a text file and generates statistics about it.
