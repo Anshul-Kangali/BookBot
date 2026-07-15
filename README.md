@@ -2,6 +2,8 @@
 
 BookBot is a command-line application that analyzes a text file and generates statistics about it.
 
+> **Note:** This project was built as part of the Boot.dev Backend Developer course. The implementation was completed by following the guided project instructions while writing the code myself.
+
 ## Features
 
 - Count total words
